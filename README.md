@@ -1,5 +1,7 @@
 # webcrypto-benchmark
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feross/webcrypto-benchmark.svg)](https://greenkeeper.io/)
+
 Chrome bug: https://bugs.chromium.org/p/chromium/issues/detail?id=449009
 
 ## Results
